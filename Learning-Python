@@ -1,0 +1,42 @@
+print("Hello World!")
+
+
+
+#learning variables
+
+
+name = "man"
+age = 15
+height = "6ft 4in"
+
+print(("name: "+name))
+print("age: "+str(age))
+print("height: "+(height))
+
+
+name, age, height = "man", 15, "6ft 4in"
+
+print(("name: "+name))
+print("age: "+str(age))
+print("height: "+(height))
+
+a = b = c = d = e = 5
+
+print(a, b, c, d, e)
+
+
+
+#learning string methods
+
+name = "man"
+
+print(len(name))
+print(name.find("a"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+
+
+
+#learning
