@@ -7,14 +7,14 @@ print("Hello World!")
 
 name = "man"
 age = 15
-height = "6ft 4in"
+height = "6ft 1in"
 
 print(("name: "+name))
 print("age: "+str(age))
 print("height: "+(height))
 
 
-name, age, height = "man", 15, "6ft 4in"
+name, age, height = "man", 15, "6ft 1in"
 
 print(("name: "+name))
 print("age: "+str(age))
